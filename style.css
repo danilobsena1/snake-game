@@ -1,0 +1,14 @@
+body {
+    height: 95vh;
+    width: 95;
+    display: flex; 
+    justify-content: center; /*alinha horizontamente no meio */
+    align-items: center;    /*alinha verticalmente no meio */
+    flex-direction: column;
+    background-color: #4a148c; /* */
+    /* color: rgb(52, 165, 52); */
+}
+
+h1 {
+    color: red;
+}
